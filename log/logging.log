@@ -1,0 +1,11 @@
+[INFO ] 2016-12-23 21:25:39.030 [main] DriverSingleton - Browser opened
+[INFO ] 2016-12-23 21:25:42.658 [main] MainPage - Main Page opened
+[INFO ] 2016-12-23 21:25:42.659 [main] MainPage - Transition to the Login page
+[DEBUG] 2016-12-23 21:25:44.775 [main] LoginPage - Login performed
+[INFO ] 2016-12-23 21:25:45.931 [main] DriverSingleton - Browser quited
+
+[INFO ] 2016-12-23 21:25:54.685 [main] DriverSingleton - Browser opened
+[INFO ] 2016-12-23 21:25:58.404 [main] LoginPage - Directly opened Login page
+[DEBUG] 2016-12-23 21:25:59.298 [main] LoginPage - Login performed
+[INFO ] 2016-12-23 21:26:00.747 [main] DriverSingleton - Browser quited
+

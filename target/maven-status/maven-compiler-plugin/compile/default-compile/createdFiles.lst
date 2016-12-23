@@ -1,0 +1,5 @@
+by\htp\ta\steps\Steps.class
+by\htp\ta\driver\DriverSingleton.class
+by\htp\ta\pages\AbstractPage.class
+by\htp\ta\pages\MainPage.class
+by\htp\ta\pages\LoginPage.class
